@@ -3,13 +3,10 @@
 ![](https://github.com/lf-energy/artwork/blob/master/projects/PROJECT NAME/PROJECT NAME-color.svg)
 ```
 
-```gfm
-# Add badges that point to your LICENSE, CII status, and build environment (if it exists). Check out other badges to add at https://shields.io/
-![GitHub](https://img.shields.io/github/license/lfenergy/PROJECT NAME)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/CII ID/badge)](https://bestpractices.coreinfrastructure.org/projects/CII ID)
-```
+![GitHub](https://img.shields.io/github/license/gridcapacitymap/tsc)
+<!-- [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/CII ID/badge)](https://bestpractices.coreinfrastructure.org/projects/CII ID) -->
 
-# PROJECT NAME
+# Grid Capacity Map
 
 _2-3 sentence description of the project_
 
@@ -32,7 +29,7 @@ You can connect with the community in a variety of ways...
 Anyone can contribute to the PROJECT NAME project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Governance
-PROJECT NAME is a project hosted by the [LF Energy Foundation](https://lfenergy.org). This project's techincal charter is located in [CHARTER.md](tsc/CHARTER.md) and has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+Grid Capacity Map is a project hosted by the [LF Energy Foundation](https://lfenergy.org). This project's techincal charter is located in [CHARTER.md](tsc/CHARTER.md) and has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Reporting Issues
 To report a problem, you can open an [issue](https://github.com/lf-energy/PROJECT NAME/issues) in repository against a specific workflow. If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email PROJECT NAME-private@lists.lfenergy.org.
